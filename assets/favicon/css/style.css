@@ -1,0 +1,18 @@
+/*Asterisk wildcard selector to override default style*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+/*Header*/
+header {
+    background-color: rgb(186, 224, 186);
+}
+/*Main*/
+main {
+    background-color: rgb(222, 222, 195);
+}
+/*Footer*/
+footer {
+    background-color:green;
+}
