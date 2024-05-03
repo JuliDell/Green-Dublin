@@ -13,6 +13,11 @@ body {
     color:#3a3a3a;
     font-family: 'lato', sans-serif;
 }
+h1, h2, h3 {
+    font-family:'Osvald', sans-serif;
+    color:green;
+    letter-spacing: 2px;
+}
 /*Header*/
 header {
     background-color: rgb(222, 238, 192);
@@ -29,11 +34,7 @@ header a {
     text-decoration:none;
     color: inherit;
 }
-h1 {
-    font-family:'Osvald', sans-serif;
-    color:green;
-    letter-spacing: 2px;
-}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -77,7 +78,22 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/pexels-photo-1296265.webp") no-repeat center center/cover;
+    position: relative;
 }
+#cover-text {
+/*rgba value sets the opacity*/
+    background-color: rgba(224, 235, 110, 0.7);
+    font-size: 100%;
+    position: absolute;
+    bottom: 50px;
+    width:90%;
+    min-height: 150px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+#cover-text > h2, #cover-text > h3 {
+    color:#ffff;
+} 
 /*Footer*/
 #social-networks {
     background-color: rgb(222, 238, 192);
@@ -124,6 +140,10 @@ main {
 main{
     /*Push main content down to acomodate larger hearder*/
     margin-top: 79px;
+}
+/*Hero*/
+#cover-text {
+    width: 300px;
 }
 }
 /* Media query for large devices: screen size of 992px and higher*/
