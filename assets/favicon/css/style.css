@@ -73,9 +73,23 @@ main {
     margin-top: 40px;
 }
 /*Footer*/
-footer {
-    background-color:green;
+#social-networks {
+    background-color: rgb(222, 238, 192);
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
+@social-networks i {
+    font-size: 200%;
+    padding: 5%;
+    color: #3a3a3a
+
+
+}
+
+
 /* Media query: tablets and larger (780px to up)*/
 @media screen and (min-width: 768px) {
     /*Header*/
