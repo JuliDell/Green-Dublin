@@ -70,6 +70,7 @@ nav {
 main {
     background-color: rgb(222, 222, 195);
     flex: 1 0 auto;
+    margin-top: 40px;
 }
 /*Footer*/
 footer {
