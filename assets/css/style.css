@@ -94,6 +94,22 @@ main {
 #cover-text > h2, #cover-text > h3 {
     color:#ffff;
 } 
+#things h2 {
+    width:90%;
+    line-height: 25px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+#actions {
+    line-height: 25px;
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
 /*Footer*/
 #social-networks {
     background-color: rgb(222, 238, 192);
