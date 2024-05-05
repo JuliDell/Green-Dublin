@@ -110,27 +110,10 @@ hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
-#plastic-image {
-    background: url(../images/pexels-photo-3480494.webp) no repeat left/cover;
-    line-height: 25px;
-    margin-bottom: 0px;
-    padding: 0 20px;
-    max-width: 300px;
-    min-width: 300px;
-}
-.lateral {
-    display: flex; /* Use flexbox for layout */
-}
 
-.image {
-    flex: 1; /* Image takes up 50% of the container */
-}
-
-.text {
-    flex: 1; /* Text takes up 50% of the container */
-}
 .justified {
     text-align: justify;
+    max-width: 100%;
 }
 /*Footer*/
 #social-networks {
