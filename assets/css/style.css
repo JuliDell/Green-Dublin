@@ -110,6 +110,28 @@ hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+#plastic-image {
+    background: url(../images/pexels-photo-3480494.webp) no repeat left/cover;
+    line-height: 25px;
+    margin-bottom: 0px;
+    padding: 0 20px;
+    max-width: 300px;
+    min-width: 300px;
+}
+.lateral {
+    display: flex; /* Use flexbox for layout */
+}
+
+.image {
+    flex: 1; /* Image takes up 50% of the container */
+}
+
+.text {
+    flex: 1; /* Text takes up 50% of the container */
+}
+.justified {
+    text-align: justify;
+}
 /*Footer*/
 #social-networks {
     background-color: rgb(222, 238, 192);
@@ -123,10 +145,7 @@ hr {
     font-size: 200%;
     padding: 5%;
     color: #3a3a3a
-
-
 }
-
 
 /* Media query: tablets and larger (780px to up)*/
 @media screen and (min-width: 768px) {
