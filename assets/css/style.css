@@ -111,7 +111,6 @@ main {
     padding-left: 10px;
 }
 
-}
 
 #cover-text>h2,
 #cover-text>h3 {
@@ -162,7 +161,22 @@ main {
     align-items: center;
     justify-content: center;
 }
+/* About us page */
+#about h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 100%;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-left: 10px;
+    letter-spacing: 2px;
+    color: green
+}
+#about p{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
 
+}
 /* Footer */
 #social-networks {
     text-align: center;
