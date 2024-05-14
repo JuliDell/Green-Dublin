@@ -130,6 +130,7 @@ main {
 }
 
 #action-plastic>div,
+#action-netfree>div,
 #action-recycling>div {
     line-height: 20px;
     margin-bottom: 20px;
@@ -258,23 +259,28 @@ main {
         padding-left: 10px;
     }
 
-    /* Reasons section 
-    #benefits-physical,
-    #benefits-mental {
+    /* Things section*/
+    #action-plastic,
+    #action-netfree,
+    #action-recycling {
         display: flex;
         flex-direction: column;
         width: 100%;
     }
 
-    #benefits-physical>div,
-    #benefits-mental>div {
+    #action-plastic>div,
+    #action-netfree>div,
+    #action-recycling>div {
         width: 75%;
     }
 
-    #benefits-mental>div {
+    #action-netfree>div {
         text-align: end;
         align-self: flex-end;
-    }*/
+    }
+    #action-recycling>div {
+        padding-top: 10px;
+    }
 /*About us page */
     #photos { 
        column-count: 3;
