@@ -175,6 +175,15 @@ main {
     text-align: justify;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 10px;
+}
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+#photos {
+    line-height:0;
+    
 }
 
 /* Footer */
