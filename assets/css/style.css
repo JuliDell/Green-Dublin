@@ -120,13 +120,13 @@ main {
 /* Reasons section */
 #things {
     width: 90%;
-    margin: 20px auto;
+    margin: 15px auto;
 }
 
 #things h2 {
     margin-bottom: 20px;
     text-align: left;
-    font-size: 180%;
+    font-size: 120%;
 }
 
 #action-plastic>div,
@@ -136,7 +136,7 @@ main {
 }
 
 #action p {
-    padding: 0 20px;
+    padding: 0 5px;
     text-align: justify;
 }
 
