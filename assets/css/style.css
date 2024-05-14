@@ -294,30 +294,30 @@ main {
     }
 }
 
-@media screen and (min-width: 1200px) {    
-    /* Reasons section 
-    #benefits {
+@media screen and (min-width: 1200px) {   
+    /* Things section
+    #action {
         display: flex;
         flex-direction: row;
     }
 
-    #benefits > div {
-        flex: 1;
+    #action > div {
+        flex: 0;
     }
 
     #benefits-image {
-        order: 0
+        order: -1
     }
 
-    #benefits-mental {
-        order: 1;
+    #action-recycling {
+        order: 0;
     }
 
-    #benefits-mental > div {
+    #action-recycling > div {
         align-self: flex-start;
     }
 
-    #benefits-physical > div {
+    #action-plastic > div {
         align-self: flex-end;
     }
 }*/
