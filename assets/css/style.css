@@ -267,6 +267,22 @@ main {
     color: #ffffff;
     margin-bottom: 20px;
 }
+.green-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+/* Hover effect */
+.green-button:hover {
+    background-color: #45a049; /* Darker green */
+}
    
 /* Footer */
 #social-networks {
