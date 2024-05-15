@@ -11,6 +11,7 @@
 <p>This section will allow the user to easily navigate on the site and on all different devices.</p>
 <p>The navigation use the green background, that is the base color of the site</p>
 
+<li><h3>Favicon</h3></li>
 <li><h3>Home page</h3></li>
 <li><h3>About page</h3></li>
 <li><h3>Sign Up page</h3></li>
