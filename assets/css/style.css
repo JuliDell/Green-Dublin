@@ -272,6 +272,22 @@ main {
 }
 }
 
+/* Media query: mobiles (410px and up) */
+@media screen and (min-width: 410px) {
+    /*Signup page*/
+    #signup {
+    background-position: center;
+    position: relative;
+    padding: 20px 20% 5% 10%;
+    }
+}
+/* Media query: mobiles (540px and up) */
+@media screen and (min-width: 540px) {
+    /*Signup page*/
+    #signup {
+    padding: 20px 30% 10% 10%;
+    }
+}
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -377,10 +393,11 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }
     /*Sign up page */
-    /* Form */
+       /* Form */
     #signup {
         background-position: center;
         position: relative;
+        padding: 15px 10% 50% 10%;
     }
 
     #signup-form {
@@ -391,30 +408,13 @@ main {
     }
 }
 
-@media screen and (min-width: 1200px) {   
-    /* Things section
-    #action {
-        display: flex;
-        flex-direction: row;
+@media screen and (min-width: 1000px) {   
+    /*Sign up page */
+       /* Form */
+       #signup {
+        background-position: center;
+        position: relative;
+        padding: 15px 10% 70% 10%;
     }
-
-    #action > div {
-        flex: 0;
-    }
-
-    #benefits-image {
-        order: -1
-    }
-
-    #action-recycling {
-        order: 0;
-    }
-
-    #action-recycling > div {
-        align-self: flex-start;
-    }
-
-    #action-plastic > div {
-        align-self: flex-end;
-    }
-}*/
+}
+  
