@@ -406,6 +406,11 @@ main {
         color: #fafafa;
     }
 }
+    /* Petition page */
+    /* Form */
+    #signuppetition {
+    padding: 55px 10% 5% 10%;
+}
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
@@ -435,6 +440,11 @@ main {
         background-position: center;
         position: relative;
         padding: 15px 10% 70% 10%;
+    }
+      /* Petition page */
+    /* Form */
+    #signuppetition {
+        padding: 60px 15% 15% 10%;
     }
 }
   
