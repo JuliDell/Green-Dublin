@@ -80,7 +80,9 @@ No bugs were detected on the wesite.
 
 <h2><font color="green">Validator testing</font></h2>
 HTML validation: no errors were found  on the official W3C validator
+
 CSS validation: no errors were found  on the official (Jigsaw) validator
+
 Acessibility:
 
 <h2><font color="green">Deployment</font></h2>
@@ -94,3 +96,14 @@ The social media links was taken from CI Love Running Project.
 <h3> Media</h3>
 The images was taken from Pexels and Istockphoto websites.
 
+<h2><font color="green">Acknowledgments</font></h2>
+
+I would like to thank everyone listed below for helping me to complete this project:
+
+[Code Institute](https://codeinstitute.net/ie/)
+
+My project mentor: Juliia_Konn
+[Git Hub](https://github.com/IuliiaKonovalova)
+
+My project facilitator: Lewis Dillon
+[Git Hub](https://github.com/LewisDillon)
