@@ -62,12 +62,25 @@ The favicon was generated using the following font:
 
 
 2. Navigation Bar
-<p>Featured at the top of the page is full responsive and includes a Home section, an About section and a Sign Up section.</p>
+
+Featured at the top of the page is full responsive and includes a Home page, an About page and a Sign Up page.
 
 This section will allow the user to easily navigate on the site and on all different devices.
-The navigation use the green background, that is the base color of the site
+
+The navigation use a green background, that is the base color of the site.
+
+![Nav Bar mMbiles](documentation/Screenshot%202024-05-16%20213543.png)
+
+![Nav Bar Desktop](documentation/Screenshot%202024-05-16%20213711.png)
 
 3. Home page
+
+The home page includes a picture with a cover text inviting the user to become a volunteer and list the actions Green Dublin is working on at the moment.
+
+![Home page picture](documentation/Screenshot%202024-05-16%20214104.png)
+
+![Home page actions](documentation/Screenshot%202024-05-16%20214350.png)
+
 4. About page
 5. Sign up page
 6. Petition page
