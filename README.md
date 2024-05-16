@@ -37,11 +37,29 @@ To match with the name of the site "Green Dublin", it contains different shades 
 
 [Hex color #45a049](https://rgb.to/hex/45a049)
 
+<h2><font color="green">Wireframes</font></h2>
 
+Wireframes were created for desktop using Balsamiq.
+
+More information about Balsamiq can be found on [Balsamiq website](https://balsamiq.com/?gad_source=1&gclid=EAIaIQobChMIroLN0tyShgMVFJJQBh1RCgKrEAAYASAAEgLZmvD_BwE)
+
+Throughout the website development process, the wireframes served as a fundamental tool for visualizing layout, structure, and functionality. However, due to design refinements and aesthetic enhancements adjustments were made to the pages before arriving at the final website version.
+
+![Home](documentation/Screenshot%202024-05-16%20185524.png)
+
+![Pettition](documentation/Screenshot%202024-05-16%20190244.png)
 
 <h2><font color="green">Features</font></h2>
 
 1. Favicon
+
+The favicon was generated using the following font:
+
+- Font Title: Irish Grover
+- Font Author: Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.
+- Font Source: https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf-P5Oaiw4cw.ttf
+- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+
 
 2. Navigation Bar
 <p>Featured at the top of the page is full responsive and includes a Home section, an About section and a Sign Up section.</p>
