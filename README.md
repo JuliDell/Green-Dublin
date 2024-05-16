@@ -60,6 +60,7 @@ The favicon was generated using the following font:
 - Font Source: https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf-P5Oaiw4cw.ttf
 - Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
 
+![Favicon](documentation/favicon-32x32.png)
 
 2. Navigation Bar
 
