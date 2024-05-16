@@ -2,7 +2,7 @@
 
 ![Home Page](documentation/Screenshot%202024-05-15%20222839.png)
 
-Welcome to Green Dublin, a site that was created because the planet and its ecosystems need people to defend them. It wants to encourage voolunteering and confront companies and projects that contribute to the global climate crisis and the incresing level of pollution on our planet.
+Welcome to Green Dublin, a site created because the planet and its ecosystems need people to defend them. It wants to encourage voolunteering and confront companies and projects that contribute to the global climate crisis and the incresing level of pollution on our planet.
 
 <h2><font color="green">UX</font></h2>
 
@@ -65,7 +65,7 @@ The favicon was generated using the following font:
 
 Featured at the top of the page is full responsive and includes a Home page, an About page and a Sign Up page.
 
-This section will allow the user to easily navigate on the site and on all different devices.
+This section allows the user to easily navigate on the site and on all different devices.
 
 The navigation use a green background, that is the base color of the site.
 
@@ -73,17 +73,44 @@ The navigation use a green background, that is the base color of the site.
 
 ![Nav Bar Desktop](documentation/Screenshot%202024-05-16%20213711.png)
 
-3. Home page
+3. Footer 
 
-The home page includes a picture with a cover text inviting the user to become a volunteer and list the actions Green Dublin is working on at the moment.
+The footer section shows the Green Dublin social medias: Facebook, Youtube and Instagram. It makes easier the interation between Green Dublin team and visitors and volunteers.
+
+![Footer](documentation/Screenshot%202024-05-16%20220849.png)
+
+4. Home page
+
+The home page includes a picture with a cover text inviting the user to become a volunteer and lists the actions Green Dublin is working on at the moment.
 
 ![Home page picture](documentation/Screenshot%202024-05-16%20214104.png)
 
 ![Home page actions](documentation/Screenshot%202024-05-16%20214350.png)
 
-4. About page
-5. Sign up page
-6. Petition page
+5. About page
+
+The about page provides visitors with information about the organization behind the site. It has some pictures of members -registered volunteers- in real life acting in the campaigns. It hopes to establish credibility and build trust with the user.
+
+![About page](documentation/Screenshot%202024-05-16%20215115.png)
+
+6. Sign up page
+
+This page allows the user to become a volunteer. The user will need:
+- Inform the first and last name
+- Inform an email
+- Select the option to receive updates from Green Dublin by email
+- Click on the button "Become a volunteer" to submit
+
+![Sign up page](documentation/Screenshot%202024-05-16%20221252.png)
+
+7. Petition page
+
+From the button "Join the petition" located on the home page, the user is redirected to the petition page.
+
+The petition page has a form to be filled by the user to virtualy sign the petition.
+
+
+
 
 
 <h2><font color="green">Manual Testing</font></h2>
