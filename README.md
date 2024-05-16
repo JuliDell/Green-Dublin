@@ -88,7 +88,9 @@ HTML validation: no errors were found  on the official W3C validator
 
 CSS validation: no errors were found  on the official (Jigsaw) validator
 
-Acessibility:
+Acessibility: the site is friendly, easy to read and acessible- confirmed by running it through lighthouse in dev tools
+
+![Lighthouse](documentation/Screenshot%202024-05-16%20203323.png)
 
 <h2><font color="green">Bugs</font></h2>
 No bugs were detected on the wesite.
