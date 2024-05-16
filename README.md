@@ -110,7 +110,7 @@ From the button "Join the petition" located on the home page, the user is redire
 
 The petition page has a form to be filled by the user to virtualy sign the petition.
 
-
+![Ptition page](documentation/Screenshot%202024-05-17%20000041.png)
 
 
 
