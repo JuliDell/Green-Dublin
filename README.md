@@ -140,15 +140,43 @@ No bugs were detected on the wesite.
 
 Green Dublin was deployed by GitHub pages, only two erros was detected:
 
-On the Petittion page: the text "!DOCTYPE html" was missing;
+On the Petittion page: the text "!DOCTYPE html" was missing.
 
 On the forms of the Petittion page and Sign Up page: the labor for had a name with space in it.
 
 <h2><font color="green">Credits</font></h2>
 <h3> Content</h3>
 The social media links was taken from CI Love Running Project.
+
 <h3> Media</h3>
-The images was taken from Pexels and Istockphoto websites.
+The images were taken from Pexels and Istockphoto websites.
+
+[Home up page img1](https://www.pexels.com/photo/person-holding-clear-glass-ball-1296265/)
+
+[Home up page img2](https://www.pexels.com/photo/person-holding-clear-plastic-bottle-3480494/)
+
+[About page img1](https://www.pexels.com/photo/woman-in-blue-denim-jacket-holding-a-plastic-bottle-and-black-plastic-bag-5029852/)
+
+[About page img2](https://www.pexels.com/photo/a-volunteer-cleaning-and-elderly-man-s-yard-6647049/)
+
+[About page img3](https://www.pexels.com/photo/person-in-white-crew-neck-t-shirt-wearing-gloves-while-holding-green-plant-7655815/)
+
+[About page img4](https://www.pexels.com/photo/volunteer-man-planting-tree-in-the-ground-7656745/)
+
+[About page img5](https://www.pexels.com/photo/a-woman-sitting-on-the-floor-while-holding-a-potted-plant-8543113/)
+
+[About page img6](https://www.pexels.com/photo/person-in-gloves-holding-yellow-plastic-bag-with-recyclable-materials-8543601/)
+
+[About page img7](https://www.pexels.com/photo/a-boy-in-white-shirt-holding-pink-scrunch-net-9037212/)
+
+[About page img8](https://www.pexels.com/photo/man-in-green-crew-neck-t-shirt-holding-white-textile-9324313/)
+
+[About page img9](https://www.pexels.com/photo/a-person-holding-a-cardboard-with-inscription-6994992/)
+
+
+[Sign up img](https://www.istockphoto.com/photo/net-zero-and-carbon-neutral-concepts-net-zero-emissions-goals-a-climate-neutral-long-gm1388420740-446069481?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdecarbonization%2F&utm_medium=affiliate&utm_source=pexels&utm_term=decarbonization)
+
+[Pettition page img](https://www.pexels.com/photo/plastic-bottles-3735215/)
 
 <h2><font color="green">Acknowledgments</font></h2>
 
