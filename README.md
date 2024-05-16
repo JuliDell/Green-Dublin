@@ -1,6 +1,6 @@
 <h1><font color="green">Green Dublin</font></h1>
 
-![Home Page](../Green-Dublin/documentation/Screenshot%202024-05-15%20222839.png)
+![Home Page](documentation/Screenshot%202024-05-15%20222839.png)
 
 Welcome to Green Dublin, a site that was created because the planet and its ecosystems need people to defend them. It wants to encourage voolunteering and confront companies and projects that contribute to the global climate crisis and the incresing level of pollution on our planet.
 
