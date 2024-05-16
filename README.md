@@ -146,7 +146,16 @@ On the forms of the Petittion page and Sign Up page: the labor for had a name wi
 
 <h2><font color="green">Credits</font></h2>
 <h3> Content</h3>
-The social media links was taken from CI Love Running Project.
+
+- Information about the climate action plan 2024-2029- Climate 
+Neutral Dublin 2030 was taken from [Neutral Dublin 2030](https://www.dublincity.ie/residential/environment/dublin-city-councils-climate-change-action-plan/dublin-city-council-climate-action-plan-2024-2029)
+
+- Information about the mandatory EU recycling targets [EU recycling targets](https://www.epa.ie/news-releases/news-releases-2023/recycling-rates-slow-as-ireland-off-track-to-meet-key-eu-targets.php)
+
+- The social media links was taken from CI Love Running Project
+
+- The icons in the footer was taken from [Fontawesome](https://fontawesome.com/)
+
 
 <h3> Media</h3>
 The images were taken from Pexels and Istockphoto websites.
@@ -178,6 +187,12 @@ The images were taken from Pexels and Istockphoto websites.
 
 [Pettition page img](https://www.pexels.com/photo/plastic-bottles-3735215/)
 
+<h2><font color="green">Technologies Used</font></h2>
+
+- HTML
+- CSS
+- Java Script: only on the footer
+
 <h2><font color="green">Acknowledgments</font></h2>
 
 I would like to thank everyone listed below for helping me to complete this project:
@@ -189,3 +204,5 @@ My project mentor: Juliia_Konn
 
 My project facilitator: Lewis Dillon
 [Git Hub](https://github.com/LewisDillon)
+
+My family for all the support and love
