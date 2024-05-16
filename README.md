@@ -73,21 +73,32 @@ The navigation use the green background, that is the base color of the site
 6. Petition page
 
 
-<h2><font color="green">Testing</font></h2>
+<h2><font color="green">Manual Testing</font></h2>
 
-<h2><font color="green">Bugs</font></h2>
-No bugs were detected on the wesite.
+The manual testing was done on the deployed project at Github.
 
-<h2><font color="green">Validator testing</font></h2>
+- Links are working
+- Interactions are working
+- The forms will not be submitted if the fields have not been filled correctly
+- The pages are responsive
+
+<h2><font color="green">Validator Testing</font></h2>
+
 HTML validation: no errors were found  on the official W3C validator
 
 CSS validation: no errors were found  on the official (Jigsaw) validator
 
 Acessibility:
 
+<h2><font color="green">Bugs</font></h2>
+No bugs were detected on the wesite.
+
 <h2><font color="green">Deployment</font></h2>
+
 Green Dublin was deployed by GitHub pages, only two erros was detected:
+
 On the Petittion page: the text "!DOCTYPE html" was missing;
+
 On the forms of the Petittion page and Sign Up page: the labor for had a name with space in it.
 
 <h2><font color="green">Credits</font></h2>
