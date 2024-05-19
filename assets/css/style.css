@@ -163,20 +163,26 @@ main {
     justify-content: center;
 }
 /* About us page */
+#about {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em, o
+}
 #about h2{
-    font-size: 100%;
+    font-size: 170%;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    padding-top: 10px;
-    padding-left: 20px;
     letter-spacing: 2px;
-    color: green
+    color: green;
 }
 #about p{
     text-align: justify;
-    padding-left: 20px;
-    padding-right: 15px;
+    width: 95%;
     padding-bottom: 10px;
+    font-size: 120%;
+    color: green;
 }
 #photos img {
     width: 100%;
