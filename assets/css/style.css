@@ -294,10 +294,10 @@ main {
     list-style-type: none;
 }
 
-#social-networks i {
+#social-networks i:hover {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #02b46d;
 }
 /* Media query: tablets or landscape phones (576px and up) */
 /*About us page */
