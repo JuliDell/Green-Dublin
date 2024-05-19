@@ -208,8 +208,6 @@ main {
 #signup {
     background-image: url("../images/istockphoto-1427517190-612x612.jpg");
     background-size: cover;
-    background-position: 75%;
-    padding: 15px 10% 0 10%;
     flex-grow: 1;
 }
 
@@ -246,7 +244,7 @@ main {
     padding-top: 20px;
 }
 
-.join-button {
+.join-button: :hover {
     margin-top: 20px;
     border-radius: 2px;
     padding: 20px 30px;
@@ -260,8 +258,6 @@ main {
 #signuppetition {
     background-image: url("../images/pexels-photo-3735215.jpeg");
     background-size: cover;
-    background-position: 75%;
-    padding: 15px 10% 15% 10%;
     flex-grow: 1;
 }
 #signuppetition-form {
@@ -288,6 +284,24 @@ main {
 /* Hover effect */
 .green-button:hover {
     background-color: #45a049; /* Darker green */
+}
+
+/* Response Page */
+#response {
+    background-color: #cbde9b;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    flex: 1 0 auto;
+    margin-top: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#response h1 {
+    text-align: center;
+    color:green;
+    font-size: 300%;
 }
    
 /* Footer */
