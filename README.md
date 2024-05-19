@@ -160,7 +160,7 @@ Neutral Dublin 2030 was taken from [Neutral Dublin 2030](https://www.dublincity.
 <h3> Media</h3>
 The images were taken from Pexels and Istockphoto websites.
 
-[Home up page img1](https://www.pexels.com/photo/person-holding-clear-glass-ball-1296265/)
+[Home up page img1](https://www.istockphoto.com/photo/aerial-top-view-green-forest-with-earth-green-planet-in-your-hands-save-earth-gm1406761842-458200738)
 
 [Home up page img2](https://www.pexels.com/photo/person-holding-clear-plastic-bottle-3480494/)
 
@@ -180,7 +180,7 @@ The images were taken from Pexels and Istockphoto websites.
 
 [About page img8](https://www.pexels.com/photo/man-in-green-crew-neck-t-shirt-holding-white-textile-9324313/)
 
-[About page img9](https://www.pexels.com/photo/a-person-holding-a-cardboard-with-inscription-6994992/)
+[About page img9](https://www.pexels.com/photo/man-collecting-up-plastic-bottle-8543606/)
 
 
 [Sign up img](https://www.istockphoto.com/photo/net-zero-and-carbon-neutral-concepts-net-zero-emissions-goals-a-climate-neutral-long-gm1388420740-446069481?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fdecarbonization%2F&utm_medium=affiliate&utm_source=pexels&utm_term=decarbonization)
