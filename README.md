@@ -1,6 +1,6 @@
 <h1><font color="green">Green Dublin</font></h1>
 
-![Home Page](documentation/Screenshot%202024-05-15%20222839.png)
+![Home Page](documentation/Screenshot%202024-05-20%20233334.png)
 
 Welcome to Green Dublin, a site created because the planet and its ecosystems need people to defend them. It wants to encourage voolunteering and confront companies and projects that contribute to the global climate crisis and the incresing level of pollution on our planet.
 
@@ -70,9 +70,9 @@ This section allows the user to easily navigate on the site and on all different
 
 The navigation use a green background, that is the base color of the site.
 
-![Nav Bar mMbiles](documentation/Screenshot%202024-05-16%20213543.png)
+![Nav Bar mMbiles](documentation/Screenshot%202024-05-20%20234435.png)
 
-![Nav Bar Desktop](documentation/Screenshot%202024-05-16%20213711.png)
+![Nav Bar Desktop](documentation/Screenshot%202024-05-20%20234608.png)
 
 3. Footer 
 
@@ -84,15 +84,13 @@ The footer section shows the Green Dublin social medias: Facebook, Youtube and I
 
 The home page includes a picture with a cover text inviting the user to become a volunteer and lists the actions Green Dublin is working on at the moment.
 
-![Home page picture](documentation/Screenshot%202024-05-16%20214104.png)
-
-![Home page actions](documentation/Screenshot%202024-05-16%20214350.png)
+![Home page picture](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_(Nest%20Hub%20Max).png)
 
 5. About page
 
 The about page provides visitors with information about the organization behind the site. It has some pictures of members -registered volunteers- in real life acting in the campaigns. It hopes to establish credibility and build trust with the user.
 
-![About page](documentation/Screenshot%202024-05-16%20215115.png)
+![About page](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_about.html(Nest%20Hub%20Max).png)
 
 6. Sign up page
 
@@ -102,7 +100,7 @@ This page allows the user to become a volunteer. The user will need:
 - Select the option to receive updates from Green Dublin by email
 - Click on the button "Become a volunteer" to submit
 
-![Sign up page](documentation/Screenshot%202024-05-16%20221252.png)
+![Sign up page](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_signup.html(Nest%20Hub%20Max).png)
 
 7. Petition page
 
@@ -110,9 +108,13 @@ From the button "Join the petition" located on the home page, the user is redire
 
 The petition page has a form to be filled by the user to virtualy sign the petition.
 
-![Ptition page](documentation/Screenshot%202024-05-17%20000041.png)
+![Petition page](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_petition.html(Nest%20Hub%20Max).png)
 
+8. Response page
 
+Everytime the user signs up to become a volunter and joins a petition, he/she will be redirect to the response page and a thank you message will be showed.
+
+![Response page](documentation/80B14C~1.PNG)
 
 <h2><font color="green">Manual Testing</font></h2>
 
@@ -131,7 +133,7 @@ CSS validation: no errors were found  on the official (Jigsaw) validator
 
 Acessibility: the site is friendly, easy to read and acessible- confirmed by running it through lighthouse in dev tools
 
-![Lighthouse](documentation/Screenshot%202024-05-16%20203323.png)
+![Lighthouse](documentation/Screenshot%202024-05-21%20000828.png)
 
 <h2><font color="green">Bugs</font></h2>
 No bugs were detected on the wesite.
@@ -163,6 +165,10 @@ The images were taken from Pexels and Istockphoto websites.
 [Home up page img1](https://www.istockphoto.com/photo/aerial-top-view-green-forest-with-earth-green-planet-in-your-hands-save-earth-gm1406761842-458200738)
 
 [Home up page img2](https://www.pexels.com/photo/person-holding-clear-plastic-bottle-3480494/)
+
+[Home up page img3](https://media.istockphoto.com/id/1386672256/photo/reduce-co2-emission-concept-in-the-hand-for-environmental-global-warming-sustainable.jpg?b=1&s=612x612&w=0&k=20&c=SuTDvxnEdSIhsWK9w73n3fLLjFBvg1VvfDQCdNYidKw=)
+
+[Home up page img4](https://images.pexels.com/photos/12492301/pexels-photo-12492301.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 [About page img1](https://www.pexels.com/photo/woman-in-blue-denim-jacket-holding-a-plastic-bottle-and-black-plastic-bag-5029852/)
 
