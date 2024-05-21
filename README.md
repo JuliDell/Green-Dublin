@@ -1,6 +1,6 @@
 <h1><font color="green">Green Dublin</font></h1>
 
-![Home Page](documentation/Screenshot%202024-05-20%20233334.png)
+![Home Page](documentation/233334.png)
 
 Welcome to Green Dublin, a site created because the planet and its ecosystems need people to defend them. It wants to encourage voolunteering and confront companies and projects that contribute to the global climate crisis and the incresing level of pollution on our planet.
 
@@ -45,9 +45,9 @@ More information about Balsamiq can be found on [Balsamiq website](https://balsa
 
 Throughout the website development process, the wireframes served as a fundamental tool for visualizing layout, structure, and functionality. However, due to design refinements and aesthetic enhancements adjustments were made to the pages before arriving at the final website version.
 
-![Home](documentation/Screenshot%202024-05-16%20185524.png)
+![Home](documentation/185524.png)
 
-![Pettition](documentation/Screenshot%202024-05-16%20190244.png)
+![Pettition](documentation/190244.png)
 
 <h2><font color="green">Features</font></h2>
 
@@ -70,27 +70,27 @@ This section allows the user to easily navigate on the site and on all different
 
 The navigation use a green background, that is the base color of the site.
 
-![Nav Bar mMbiles](documentation/Screenshot%202024-05-20%20234435.png)
+![Nav Bar mMbiles](documentation/234435.png)
 
-![Nav Bar Desktop](documentation/Screenshot%202024-05-20%20234608.png)
+![Nav Bar Desktop](documentation/234608.png)
 
 3. Footer 
 
 The footer section shows the Green Dublin social medias: Facebook, Youtube and Instagram. It makes easier the interation between Green Dublin team and visitors and volunteers.
 
-![Footer](documentation/Screenshot%202024-05-16%20220849.png)
+![Footer](documentation/220849.png)
 
 4. Home page
 
 The home page includes a picture with a cover text inviting the user to become a volunteer and lists the actions Green Dublin is working on at the moment.
 
-![Home page picture](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_(Nest%20Hub%20Max).png)
+![Home page picture](documentation/80815.png)
 
 5. About page
 
 The about page provides visitors with information about the organization behind the site. It has some pictures of members -registered volunteers- in real life acting in the campaigns. It hopes to establish credibility and build trust with the user.
 
-![About page](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_about.html(Nest%20Hub%20Max).png)
+![About page](documentation/80816.png)
 
 6. Sign up page
 
@@ -100,7 +100,7 @@ This page allows the user to become a volunteer. The user will need:
 - Select the option to receive updates from Green Dublin by email
 - Click on the button "Become a volunteer" to submit
 
-![Sign up page](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_signup.html(Nest%20Hub%20Max).png)
+![Sign up page](documentation/80818.png)
 
 7. Petition page
 
@@ -108,13 +108,13 @@ From the button "Join the petition" located on the home page, the user is redire
 
 The petition page has a form to be filled by the user to virtualy sign the petition.
 
-![Petition page](documentation/8000-julidell-greendublin-p429wrnq1hd.ws.codeinstitute-ide.net_petition.html(Nest%20Hub%20Max).png)
+![Petition page](documentation/80817.png)
 
 8. Response page
 
 Everytime the user signs up to become a volunter and joins a petition, he/she will be redirect to the response page and a thank you message will be showed.
 
-![Response page](documentation/80B14C~1.PNG)
+![Response page](documentation/80B14.png)
 
 <h2><font color="green">Manual Testing</font></h2>
 
@@ -133,7 +133,7 @@ CSS validation: no errors were found  on the official (Jigsaw) validator
 
 Acessibility: the site is friendly, easy to read and acessible- confirmed by running it through lighthouse in dev tools
 
-![Lighthouse](documentation/Screenshot%202024-05-21%20000828.png)
+![Lighthouse](documentation/000828.png)
 
 <h2><font color="green">Bugs</font></h2>
 No bugs were detected on the wesite.
