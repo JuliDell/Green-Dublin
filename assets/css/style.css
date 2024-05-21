@@ -277,15 +277,19 @@ main {
   padding-top: 20px;
 }
 
-.join-button:hover {
+.join-button {
   margin-top: 20px;
   border-radius: 2px;
   padding: 20px 30px;
   font-size: 100%;
-  background-color: #4cb01a;
+  background-color: #383937;
   color: #fafafa;
+  cursor: pointer;
 }
 
+.join-button:hover {
+  background-color: #4cb01a;
+}
 /* Petition page */
 /* Form */
 #signuppetition {
@@ -308,7 +312,7 @@ main {
 .green-button {
   display: inline-block;
   padding: 5px 10px;
-  background-color: #92c193; /* Green */
+  background-color: #383937; /* Green */
   color: white;
   text-align: center;
   text-decoration: none;
@@ -316,6 +320,7 @@ main {
   border-radius: 5px;
   border: none;
   cursor: pointer;
+  margin-top: 20px;
 }
 
 /* Hover effect */
@@ -352,10 +357,14 @@ main {
   list-style-type: none;
 }
 
-#social-networks i:hover {
+#social-networks i {
   font-size: 160%;
   padding: 5%;
-  color: #02b46d;
+  color: #252726;
+}
+
+#social-networks i:hover {
+   color: #02b46d;
 }
 
 /* Media query: mobiles (410px and up) */
@@ -473,11 +482,6 @@ main {
 
   .text-input:hover {
     border-color: #f16c6b;
-  }
-
-  .join-button:hover {
-    background-color: #4cb01a;
-    color: #fafafa;
   }
 
   /* Petition page */
