@@ -129,22 +129,38 @@ The manual testing was done on the deployed project at Github.
 
 HTML validation: no errors were found  on the official W3C validator
 
+![HTML Validator](documentation/232543.png)
+
 CSS validation: no errors were found  on the official (Jigsaw) validator
+
+![CSS validator](documentation/232728.png)
 
 Acessibility: the site is friendly, easy to read and acessible- confirmed by running it through lighthouse in dev tools
 
-![Lighthouse](documentation/000828.png)
+![Lighthouse](documentation/231605.png)
 
 <h2><font color="green">Bugs</font></h2>
-No bugs were detected on the wesite.
+
+1. Solved bugs
+
+In the documentation folder, the images name was written with spaces, capital letters and special characters.
+
+![Bugs](documentation/185711.png)
+
+2. Unsolved bugs
+
+No aditional bugs were detected.
+
 
 <h2><font color="green">Deployment</font></h2>
 
-Green Dublin was deployed by GitHub pages, only two erros was detected:
+The site was deployed to GitHub pages. The steps to deploy are as follows:
 
-On the Petittion page: the text "!DOCTYPE html" was missing.
+In the GitHub repository, navigate to the Settings tab;
 
-On the forms of the Petittion page and Sign Up page: the labor for had a name with space in it.
+From the source section drop-down menu, select the Main Branch, then click "Save".
+
+The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 <h2><font color="green">Credits</font></h2>
 <h3> Content</h3>
